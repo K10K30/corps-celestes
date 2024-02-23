@@ -2,12 +2,9 @@
 
 Le soleil est la meilleure étoile
 
-<<<<<<< Updated upstream
 ![Icone de soleil](soleil.png)
-=======
 <img src="soleil.png" width="50%" alt="Icone de soleil"> 
 
->>>>>>> Stashed changes
 ## Caractéristiques
 
 - Masse : 1.989 x 10<sup>30</sup> kg
