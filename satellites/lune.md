@@ -6,7 +6,7 @@ La Lune est le seul satellite naturel de la Terre.
 
 ## Caractéristiques
 
-- Masse : \(7.342 \times 10^{22}\) kg
+- Masse : 7.342 x 10<sup>22</sup> kg
 - Diamètre : 3474.8 km
 - Distance à la Terre :
   - Apogée (point le plus éloigné) : 405,500 km
