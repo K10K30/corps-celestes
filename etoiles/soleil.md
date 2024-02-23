@@ -2,7 +2,7 @@
 
 Le soleil est la meilleure étoile
 
-<img src="soleil.png" width="50%" alt="Icone de soleil"> 
+<img src="soleil.png" width="10%" alt="Icone de soleil"> 
 
 ## Caractéristiques
 
